@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+  background-color: #f5f5f5 !important;
+  text-align: center !important;
+}
+.container {
+  max-width: 90%;
+}
+.content-wrap {
+  min-height: 550px;
+}
+.private-wrap {
+  min-height: 550px;
+}
+.brand {
+  cursor: pointer;
+}
