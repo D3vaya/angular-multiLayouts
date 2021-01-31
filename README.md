@@ -30,6 +30,7 @@ ng s | ng server
 
 - [Angular](https://angular.io/) - Versión 10
 - [Bootstrap](https://getbootstrap.com/) - Versión 4.6.0
+- [Flaticon](https://flaticon.es/) - Pack Robotics
 
 ## Autores ✒️
 
