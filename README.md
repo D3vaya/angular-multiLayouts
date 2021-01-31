@@ -1,29 +1,50 @@
 # Angular multiLayouts
 
-### Proyecto plantilla para aplicaciones angular multi layouts
+_Template base para crear proyectos angular_
 
-El proyecto fue creado con la versión de angular-cli 10.0.0
+## Comenzando 🚀
 
-## Imagen Marca
+_Al ser en un inicio un proyecto basico, solo es clonar, instalar dependencias y leventar el server de angular_
 
-se utilizo una imgen del sitio https://www.flaticon.es/
+### Instalación 🔧
 
-Robotics pack https://www.flaticon.es/packs/robotics-84
+_Clonas el proyecto_
 
-### Project template for angular multi layouts applications
+```
+git clone https://github.com/D3vaya/angular-multiLayouts.git
+```
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
+_instalar dependencias_
 
-## Development server
+```
+npm install
+```
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+_levantar el server_
 
-## Build
+```
+ng s | ng server
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Construido con 🛠️
 
-## Brand image
+- [Angular](https://angular.io/) - Versión 10
+- [Bootstrap](https://getbootstrap.com/) - Versión 4.6.0
 
-an image of the site was used https://www.flaticon.es/
+## Autores ✒️
 
-Robotics pack https://www.flaticon.es/packs/robotics-84
+- **Juan Carlos Ayala** _</>_ [d3vaya](https://github.com/d3vaya)
+
+## Licencia 📄
+
+Este proyecto está bajo la Licencia **MIT**.
+
+## ┌(▀Ĺ̯▀)┐ ¿?
+
+- La idea es crear una base para iniciar proyectos Angular 📢
+- Cualquier ayuda o sugerencia es bienvenida
+- 🇨🇱
+
+---
+
+Con ❤️ por [D3vaya](https://github.com/d3vaya) 😊
